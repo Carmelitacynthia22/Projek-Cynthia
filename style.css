@@ -39,7 +39,7 @@
   
   /* Styling untuk nama di bagian profil */
   .profile h1 {
-    font-size: 1.6rem;
+    font-size: 2.0rem;
     color: #faf8f8;
     font-weight: bold;
     letter-spacing: 1px;
@@ -55,14 +55,14 @@
   
   /* Styling untuk judul bagian "Tentang Saya" */
   .tentang h2 {
-    font-weight: 700;
+    font-weight: 850;
     color: #222;
     text-align: center;
   }
   
   /* Styling untuk paragraf deskripsi di bagian "Tentang Saya" */
   .tentang p {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   color: #333;
   line-height: 1.5;
   text-align: justify;
